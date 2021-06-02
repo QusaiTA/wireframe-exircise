@@ -99,7 +99,7 @@ span {
 
  #b1:hover{
 
-    transition: rgb(243, 0, 0) 350ms ;
+    background-color: red;
  }
 
 
